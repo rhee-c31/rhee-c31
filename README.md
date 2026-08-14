@@ -26,7 +26,8 @@
 
 ## 🧠 About Me
 
-* 💻 Strong knowledge in **Logic and Java**
+* 💻 Strong knowledge in **Logic and Back-end**
+* 🎨 3D modelling and design skills
 * 🤖 learning **PHP**, **AI** and **Databases (SQL)**
 * 🌐 Intermediary knowledge of **Front-end Technologies**
 * 🎯 Goal: Become a full-stack developer
@@ -37,7 +38,8 @@
 
 * ☕ Java
 * 🟣 Kotlin
-* 🐘 PHP 
+* 🐘 PHP
+* 🎨 Blender
 * 🗄️ Databases (SQL)
 * 🌐 HTML, CSS, JavaScript
 * 🔧 Git & GitHub
