@@ -151,7 +151,8 @@
 
 ## 🌐 Connect with Me
 
-* 💼 GitHub: https://github.com/rhee-c31
+* 💼 LinkedIn: www.linkedin.com/in/claudio-henrique-6d6573747265
 * 📸 Instagram: @claudio_h07
+* 
 
 ---
