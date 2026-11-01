@@ -18,6 +18,12 @@
     alt="Stats Card"
   />
 </p>
+<p align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/streak/rhee-c31?theme=custom&colors=A53B14%2C434d58%2CA53B14%2C0D1117%2CA53B14"
+    alt="Streak Card"
+  />
+</p>
 
 ---
 
