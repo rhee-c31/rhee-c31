@@ -1,160 +1,157 @@
+<!--
+  GITHUB PROFILE README
+  Personalize os campos entre [colchetes].
+-->
+
+<!-- BANNER -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=A53B14&center=true&vCenter=true&random=false&width=524&lines=Hi!+I'am+Claudio.+" alt="Typing SVG">
+  <img src="assets/banner.png" width="100%" alt="Profile Banner"/>
+</div>
+
+<br>
+
+<!-- INTRODUCTION -->
+<div align="center">
+
+# Hello, World! 👋
+
+### I'm [Seu nome]
+
+**Systems Development Student | Software Developer**
+
+*Building ideas into meaningful solutions.*
+
 </div>
 
 ---
 
-* 🧑‍💻 Future System Engineer with soft and hard skills
-* 🎓 High School student + Technical Degree in Systems Development (2/3)
-* ⚡ Focused on system development and embedded systems
+<!-- ABOUT ME -->
+<div align="center">
 
-<img src="assets/hollow-knight-divider.png" width="100%" />
+## ⚔️ About Me
 
-## 📈 Stats
+</div>
 
-<p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/stats/rhee-c31?theme=custom&colors=A53B14%2C434d58%2CA53B14%2C0D1117%2CA53B14&hide_stars=true"
-    alt="Stats Card"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/streak/rhee-c31?theme=custom&colors=A53B14%2C434d58%2CA53B14%2C0D1117%2CA53B14"
-    alt="Streak Card"
-  />
-</p>
+<img align="right" src="assets/about-me.png" width="35%" alt="About Me Illustration"/>
 
----
+Olá! Sou estudante de **Desenvolvimento de Sistemas**, interessado em tecnologia, engenharia de software e desenvolvimento de soluções práticas.
 
-## 🧠 About Me
+Atualmente, estou aprofundando meus conhecimentos em:
 
-* 💻 Strong knowledge in **Logic and Back-end**
-* 🎨 3D modelling and design skills
-* 🤖 learning **PHP**, **AI** and **Databases (SQL)**
-* 🌐 Intermediary knowledge of **Front-end Technologies**
-* 🎯 Goal: Become a full-stack developer
+- Desenvolvimento de aplicações e sistemas.
+- Programação orientada a objetos.
+- Banco de dados e arquitetura de software.
+- Sistemas embarcados e Internet of Things (IoT).
 
----
+Acredito na importância de escrever código organizado, desenvolver projetos consistentes e aprender continuamente.
+
+<br clear="right"/>
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
+
+<!-- TECH STACK -->
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-* ☕ Java
-* 🟣 Kotlin
-* 🐘 PHP
-* 🎨 Blender
-* 🗄️ Databases (SQL)
-* 🌐 HTML, CSS, JavaScript
-* 🔧 Git & GitHub
+### Programming Languages
 
-<div align="center">
-<a href="https://www.jetbrains.com/pt-br/idea/">
-  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="Idea"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,php,html,css" />
 
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" />
-</a>
-&nbsp;&nbsp;
+### Databases & Tools
 
-<a href="https://eclipseide.org/">
-  <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea,visualstudio" />
 
-<a href="https://www.arduino.cc/">
-  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" />
-</a>
-&nbsp;&nbsp;
+### Design & Development
 
-<a href="https://www.android.com/intl/pt_br/">
-  <img src="https://skillicons.dev/icons?i=blender" height="45" alt="Blender" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.android.com/studio?hl=pt-br">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Androidstudio"  />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.javascript.com/">
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.java.com/pt-BR/">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://kotlinlang.org/">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.php.net/">
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.figma.com/pt-br/">
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/?locale=pt-br">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
-</a>
-&nbsp;&nbsp;
-
+<img src="https://skillicons.dev/icons?i=figma,blender,arduino" />
 
 </div>
 
----
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
 
-## 🎯 Goals
+<!-- PROJECTS -->
+<div align="center">
 
-* Graduating in Systems Engineering
-* Improving my soft and hard skills
-* Learn more about databases and AIs
-* Learning new languages
+## 🚀 Featured Projects
 
----
+*Some projects I'm building and exploring.*
 
-## 🌐 Connect with Me
+</div>
 
-* 💼 LinkedIn: www.linkedin.com/in/claudio-henrique-6d6573747265
-* 📸 Instagram: @claudio_h07
+### 🔋 Lumen — Energy Monitoring System
 
----
+An IoT-based energy monitoring solution designed to help households and small businesses understand and optimize their electricity consumption.
+
+**Technologies:** C++ · ESP32 · IoT · Embedded Systems
+
+### 🤖 Robotic Hand
+
+A robotic hand controlled through an ESP32, featuring programmable finger movements and an interface for interaction.
+
+**Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
+
+### 💻 [Outro projeto]
+
+[Breve descrição do projeto.]
+
+**Technologies:** [Tecnologias utilizadas]
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
+
+<!-- GITHUB STATISTICS -->
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
+
+<!-- CONNECT -->
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+*Thanks for visiting my profile!*
+
+</div>
