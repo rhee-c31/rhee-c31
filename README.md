@@ -23,7 +23,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+</div>
 
 <!-- ABOUT ME -->
 <div align="center">
@@ -48,9 +50,7 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 <br clear="right"/>
 
 <!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
-</div>
+
 
 <!-- TECH STACK -->
 <div align="center">
