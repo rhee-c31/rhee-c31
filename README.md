@@ -18,8 +18,10 @@
 ## 📈 Stats
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=rhee-c31&border_radius=10.5&hide=followers%2Crepos%2Cgrade%2Cactive_day%2Cweek%2Chours%2Cstreak%2Ccontributions" alt="GitHub Stats Card" />
-<img src="https://ghstats.dev/api/card?username=rhee-c31&hide_title=true&border_radius=9&size=compact&compact_count=3&hide=followers%2Crepos%2Cgrade%2Cactive_day%2Cweek%2Chours%2Cstreak%2Ccontributions" alt="GitHub Stats Card" />
+  <img
+    src="https://github-statspro.vercel.app/api/stats/rhee-c31?theme=custom&colors=A53B14%2C434d58%2CA53B14%2C0D1117%2CA53B14&hide_stars=true"
+    alt="Stats Card"
+  />
 </p>
 
 ---
