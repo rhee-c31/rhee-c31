@@ -13,12 +13,9 @@
 <!-- INTRODUCTION -->
 <div align="center">
 
-# Hello, World! 👋
-
-### I'm [Seu nome]
+# Hi! I'm Claudio. 👋
 
 **Systems Development Student | Software Developer**
-
 *Building ideas into meaningful solutions.*
 
 </div>
