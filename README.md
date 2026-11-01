@@ -8,7 +8,7 @@
 * 🎓 High School student + Technical Degree in Systems Development (2/3)
 * ⚡ Focused on system development and embedded systems
 
----
+<img src="assets/hollow-knight-divider.png" width="100%" />
 
 ## 📈 Stats
 
