@@ -81,11 +81,6 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 </div>
 
-<!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
-</div>
-
 <!-- TECH STACK -->
 <div align="center">
 
@@ -108,7 +103,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 <!-- CONNECT -->
 <div align="center">
 
-### Let's Connect
+# Let's Connect
 
 <a href="https://github.com/SEU_USUARIO">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
