@@ -31,6 +31,8 @@
 
 # About Me
 
+<br>
+
 </div>
 
 <img align="right" src="assets/about-me.png" width="35%" alt="About Me Illustration"/>
@@ -55,6 +57,8 @@ I believe in the importance of writing organized code, developing consistent pro
 # Featured Projects
 
 *Some projects I'm building and exploring.*
+
+<br>
 
 </div>
 
