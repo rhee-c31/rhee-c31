@@ -70,7 +70,8 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
 
-**Colaborators:** CHEB-Labs
+**Colaborators:** ![Static Badge](https://img.shields.io/badge/CHEB%20Labs-white?style=flat&color=black&link=https%3A%2F%2Fgithub.com%2FCHEB-Labs)
+
 
 <div align="center">
   <img src="assets/hollow-knight-divider2.png" width="80%" height="80%" alt="Divider"/>
