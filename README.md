@@ -16,6 +16,7 @@
 # Hi! I'm Claudio. 👋
 
 **Systems Development Student | Software Developer**
+
 *Building ideas into meaningful solutions.*
 
 </div>
@@ -70,7 +71,7 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
 </div>
 
 <!-- PROJECTS -->
@@ -94,9 +95,6 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
 
-### 💻 [Outro projeto]
-
-[Breve descrição do projeto.]
 
 **Technologies:** [Tecnologias utilizadas]
 
@@ -110,15 +108,25 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 ## 📊 GitHub Statistics
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+<p align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/stats/rhee-c31?theme=custom&colors=ffffff%2Cffffff%2Cffffff%2C000000%2Ce4e2e2"
+    alt="Stats Card"
+  />
+</p>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<p align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/streak/rhee-c31?theme=custom&colors=ffffff%2Cffffff%2Cffffff%2C000000%2Ce4e2e2"
+    alt="Streak Card"
+  />
+</p>
 
 </div>
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
 </div>
 
 <!-- CONTRIBUTION GRAPH -->
@@ -132,7 +140,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
 </div>
 
 <!-- CONNECT -->
