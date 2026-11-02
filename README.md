@@ -100,7 +100,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 ### Design & Development
 
-<img src="https://skillicons.dev/icons?i=figma,blender,arduino,canva" />
+<img src="https://skillicons.dev/icons?i=figma,blender,arduino" />
 
 </div>
 
@@ -109,15 +109,10 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 <!-- CONNECT -->
 <div align="center">
 
-# Let's Connect
-
-
-<a href="https://linkedin.com/in/claudio-henrique-6d6573747265">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
 *Thanks for visiting my profile!*
 
+</div>
+
+<div align="center">
+  <img src="assets/hollow-knight-divider2.png" width="80%" height="80%" alt="Divider"/>
 </div>
