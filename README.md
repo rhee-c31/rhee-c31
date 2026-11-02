@@ -1,8 +1,3 @@
-<!--
-  GITHUB PROFILE README
-  Personalize os campos entre [colchetes].
--->
-
 <!-- BANNER -->
 <div align="center">
   <img src="assets/banner.png" width="100%" alt="Profile Banner"/>
@@ -64,10 +59,6 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
 
-<!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
-</div>
 
 <!-- GITHUB STATISTICS -->
 <div align="center">
@@ -102,7 +93,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,php,html,css" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,php,js,html,css" />
 
 ### Databases & Tools
 
@@ -110,15 +101,9 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 ### Design & Development
 
-<img src="https://skillicons.dev/icons?i=figma,blender,arduino" />
+<img src="https://skillicons.dev/icons?i=figma,blender,arduino,canva" />
 
 </div>
-
-<!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
-</div>
-
 
 <!-- CONNECT -->
 <div align="center">
