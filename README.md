@@ -20,6 +20,8 @@
   <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
 </div>
 
+<br>
+
 <!-- ABOUT ME -->
 <div align="center">
 
