@@ -61,7 +61,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
 
 <div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" height="80%" alt="Divider"/>
+  <img src="assets/hollow-knight-divider2.png" width="80%" height="80%" alt="Divider"/>
 </div>
 
 <!-- GITHUB STATISTICS -->
