@@ -13,7 +13,7 @@
 <!-- INTRODUCTION -->
 <div align="center">
 
-# Hi! I'm Claudio. 👋
+# Hi! I'm Claudio. 
 
 **Systems Development Student | Software Developer**
 
