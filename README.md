@@ -47,33 +47,6 @@ I believe in the importance of writing organized code, developing consistent pro
 
 <br clear="right"/>
 
-<!-- DIVIDER -->
-
-
-<!-- TECH STACK -->
-<div align="center">
-
-# Tech Stack
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,php,html,css" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea,visualstudio" />
-
-### Design & Development
-
-<img src="https://skillicons.dev/icons?i=figma,blender,arduino" />
-
-</div>
-
-<!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
-</div>
-
 <!-- PROJECTS -->
 <div align="center">
 
@@ -121,6 +94,31 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 <div align="center">
   <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
 </div>
+
+<!-- TECH STACK -->
+<div align="center">
+
+# Tech Stack
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,php,html,css" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea,visualstudio" />
+
+### Design & Development
+
+<img src="https://skillicons.dev/icons?i=figma,blender,arduino" />
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
+</div>
+
 
 <!-- CONNECT -->
 <div align="center">
