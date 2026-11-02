@@ -83,20 +83,13 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 
 </div>
 
-### Lumen — Energy Monitoring System
-
-An IoT-based energy monitoring solution designed to help households and small businesses understand and optimize their electricity consumption.
-
-**Technologies:** C++ · ESP32 · IoT · Embedded Systems
+<img align="left" src="assets/MaoAberta.png" width="35%" alt="About Me Illustration"/>
 
 ### Robotic Hand
 
 A robotic hand controlled through an ESP32, featuring programmable finger movements and an interface for interaction.
 
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
-
-
-**Technologies:** [Tecnologias utilizadas]
 
 <!-- DIVIDER -->
 <div align="center">
