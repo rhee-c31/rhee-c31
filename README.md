@@ -32,7 +32,7 @@
 
 </div>
 
-<img align="right" src="assets/about-me.png" width="35%" alt="About Me Illustration"/>
+<img align="right" src="assets/abo=t-me.png" width="35%" alt="About Me Illustration"/>
 
 Olá! Sou estudante de **Desenvolvimento de Sistemas**, interessado em tecnologia, engenharia de software e desenvolvimento de soluções práticas.
 
