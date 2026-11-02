@@ -83,7 +83,7 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 
 </div>
 
-<img align="left" src="assets/MaoAberta.png" width="35%" alt="About Me Illustration"/>
+<img align="left" src="assets/MaoAberta.png" width="25%" alt="About Me Illustration"/>
 
 ### Robotic Hand
 
@@ -93,7 +93,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
+  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
 </div>
 
 <!-- GITHUB STATISTICS -->
