@@ -34,16 +34,16 @@
 
 <img align="right" src="assets/about-me.png" width="35%" alt="About Me Illustration"/>
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas**, interessado em tecnologia, engenharia de software e desenvolvimento de soluções práticas.
+I'm a student of Systems Development, interested in software engineering, design and pratical solutions.
 
-Atualmente, estou aprofundando meus conhecimentos em:
+Recently, I have been seeking to deepen my knowledge in:
 
-- Desenvolvimento de aplicações e sistemas.
-- Programação orientada a objetos.
-- Banco de dados e arquitetura de software.
-- Sistemas embarcados e Internet of Things (IoT).
+- Development of applications and systems.
+- POO.
+- Database and software architecture.
+- Embedded systems and Internet of Things (IoT).
 
-Acredito na importância de escrever código organizado, desenvolver projetos consistentes e aprender continuamente.
+I believe in the importance of writing organized code, developing consistent projects, and continuously learning.
 
 <br clear="right"/>
 
