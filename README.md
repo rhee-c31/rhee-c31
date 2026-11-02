@@ -28,7 +28,7 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-### About Me
+# About Me
 
 </div>
 
@@ -53,7 +53,7 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 <!-- TECH STACK -->
 <div align="center">
 
-### Tech Stack
+# Tech Stack
 
 ### Programming Languages
 
@@ -77,7 +77,7 @@ Acredito na importância de escrever código organizado, desenvolver projetos co
 <!-- PROJECTS -->
 <div align="center">
 
-### Featured Projects
+# Featured Projects
 
 *Some projects I'm building and exploring.*
 
@@ -106,7 +106,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 <!-- GITHUB STATISTICS -->
 <div align="center">
 
-### GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img
@@ -121,20 +121,6 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
     alt="Streak Card"
   />
 </p>
-
-</div>
-
-<!-- DIVIDER -->
-<div align="center">
-  <img src="assets/hollow-knight-divider2.png" width="100%" alt="Divider"/>
-</div>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
