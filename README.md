@@ -1,7 +1,12 @@
 <!-- BANNER -->
 <div align="center">
   <img src="assets/banner.png" width="100%" alt="Profile Banner"/>
-  ![Static Badge](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)  
+
+  ![Static Badge](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=fff&link=https%3A%2F%2Fwww.instagram.com%2Fclaudio_h07%2F)
+  ![Static Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff&link=mailto%3Aclaudio.silva2289%40email.com)
+  ![Static Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaudio-henrique-6d6573747265%2F)
+
+
 </div>
 
 <br>
@@ -106,9 +111,7 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 # Let's Connect
 
-<a href="https://github.com/rhee-c31">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 <a href="https://linkedin.com/in/claudio-henrique-6d6573747265">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
