@@ -20,8 +20,6 @@
   <img src="assets/hollow-knight-divider.png" width="100%" alt="Divider"/>
 </div>
 
-<br>
-
 <!-- ABOUT ME -->
 <div align="center">
 
@@ -43,6 +41,7 @@ Recently, I have been seeking to deepen my knowledge in:
 I believe in the importance of writing organized code, developing consistent projects, and continuously learning.
 
 <br clear="right"/>
+<br>
 
 <!-- PROJECTS -->
 <div align="center">
