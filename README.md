@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <div align="center">
   <img src="assets/banner.png" width="100%" alt="Profile Banner"/>
+  ![Static Badge](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)  
 </div>
 
 <br>
@@ -71,19 +72,9 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 # GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/stats/rhee-c31?theme=custom&colors=ffffff%2Cffffff%2Cffffff%2C000000%2Ce4e2e2"
-    alt="Stats Card"
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhee-c31&theme=2077&animation=load&name=rhee-c31&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
 
-<p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/streak/rhee-c31?theme=custom&colors=ffffff%2Cffffff%2Cffffff%2C000000%2Ce4e2e2"
-    alt="Streak Card"
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhee-c31&theme=2077&animation=load&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=ffffff&chart_color=ffffff) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhee-c31&theme=2077&animation=load&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
 
 </div>
 
