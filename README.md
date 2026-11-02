@@ -60,6 +60,8 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 **Technologies:** C++ · ESP32 · Kotlin · 3D Modeling
 
+**Colaborators:** [@rhee-c31](https://github.com/rhee-c31) - [@Edukaxs](https://github.com/Edukaxs) - [@bryanfs-dev](https://github.com/bryanfs-dev) - [@PHei-09](https://github.com/PHei-09)
+
 <div align="center">
   <img src="assets/hollow-knight-divider2.png" width="80%" height="80%" alt="Divider"/>
 </div>
@@ -113,10 +115,10 @@ A robotic hand controlled through an ESP32, featuring programmable finger moveme
 
 # Let's Connect
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/rhee-c31">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/claudio-henrique-6d6573747265">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
